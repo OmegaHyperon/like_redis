@@ -1,0 +1,445 @@
+2021-04-18 12:55:35 
+2021-04-18 12:55:35 System started.
+2021-04-18 12:56:25 
+2021-04-18 12:56:25 System started.
+2021-04-18 12:57:09 
+2021-04-18 12:57:09 System started.
+2021-04-18 12:57:40 
+2021-04-18 12:57:40 System started.
+2021-04-18 12:58:07 
+2021-04-18 12:58:07 System started.
+2021-04-18 12:58:52 
+2021-04-18 12:58:52 System started.
+2021-04-18 12:59:20 
+2021-04-18 12:59:20 System started.
+2021-04-18 12:59:47 
+2021-04-18 12:59:47 System started.
+2021-04-18 13:00:22 
+2021-04-18 13:00:22 System started.
+2021-04-18 13:05:50 
+2021-04-18 13:05:50 System started.
+2021-04-18 13:05:55 HTTPProcessor: Read: aaa
+2021-04-18 14:49:32 
+2021-04-18 14:49:32 System started.
+2021-04-18 15:30:56 
+2021-04-18 15:30:56 System started.
+2021-04-18 15:31:10 HTTPProcessor: Read: aaa
+2021-04-18 15:31:18 HTTPProcessor: Read: 1
+2021-04-18 16:39:09 
+2021-04-18 16:39:09 System started.
+2021-04-18 16:40:53 
+2021-04-18 16:40:53 System started.
+2021-04-18 16:41:01 
+2021-04-18 16:41:01 System started.
+2021-04-18 16:41:22 
+2021-04-18 16:41:22 System started.
+2021-04-18 17:06:00 HTTPProcessor: Set: key0=value0
+2021-04-18 17:07:09 HTTPProcessor: Set: key0=value0
+2021-04-18 17:07:21 HTTPProcessor: Set: key0=value0
+2021-04-18 17:07:21 HTTPProcessor: Set: key1=value1
+2021-04-18 17:07:21 HTTPProcessor: Set: key2=value2
+2021-04-18 17:07:21 HTTPProcessor: Set: key3=value3
+2021-04-18 17:07:21 HTTPProcessor: Set: key4=value4
+2021-04-18 17:07:21 HTTPProcessor: Set: key5=value5
+2021-04-18 17:07:21 HTTPProcessor: Set: key6=value6
+2021-04-18 17:07:21 HTTPProcessor: Set: key7=value7
+2021-04-18 17:07:21 HTTPProcessor: Set: key8=value8
+2021-04-18 17:07:21 HTTPProcessor: Set: key9=value9
+2021-04-18 17:07:36 HTTPProcessor: Set: key0=value0
+2021-04-18 17:07:36 HTTPProcessor: Set: key1=value1
+2021-04-18 17:07:36 HTTPProcessor: Set: key2=value2
+2021-04-18 17:07:36 HTTPProcessor: Set: key3=value3
+2021-04-18 17:07:36 HTTPProcessor: Set: key4=value4
+2021-04-18 17:07:36 HTTPProcessor: Set: key5=value5
+2021-04-18 17:07:36 HTTPProcessor: Set: key6=value6
+2021-04-18 17:07:36 HTTPProcessor: Set: key7=value7
+2021-04-18 17:07:36 HTTPProcessor: Set: key8=value8
+2021-04-18 17:07:36 HTTPProcessor: Set: key9=value9
+2021-04-18 17:07:51 HTTPProcessor: Set: key0=value0
+2021-04-18 17:07:51 HTTPProcessor: Set: key1=value1
+2021-04-18 17:07:51 HTTPProcessor: Set: key2=value2
+2021-04-18 17:07:51 HTTPProcessor: Set: key3=value3
+2021-04-18 17:07:51 HTTPProcessor: Set: key4=value4
+2021-04-18 17:07:51 HTTPProcessor: Set: key5=value5
+2021-04-18 17:07:51 HTTPProcessor: Set: key6=value6
+2021-04-18 17:07:51 HTTPProcessor: Set: key7=value7
+2021-04-18 17:07:51 HTTPProcessor: Set: key8=value8
+2021-04-18 17:07:51 HTTPProcessor: Set: key9=value9
+2021-04-18 17:08:14 HTTPProcessor: Read: key0
+2021-04-18 17:08:14 HTTPProcessor: Set: key0=value0
+2021-04-18 17:08:14 HTTPProcessor: Read: key1
+2021-04-18 17:08:14 HTTPProcessor: Set: key1=value1
+2021-04-18 17:08:14 HTTPProcessor: Read: key2
+2021-04-18 17:08:14 HTTPProcessor: Set: key2=value2
+2021-04-18 17:08:14 HTTPProcessor: Read: key3
+2021-04-18 17:08:14 HTTPProcessor: Set: key3=value3
+2021-04-18 17:08:14 HTTPProcessor: Read: key4
+2021-04-18 17:08:14 HTTPProcessor: Set: key4=value4
+2021-04-18 17:08:14 HTTPProcessor: Read: key5
+2021-04-18 17:08:14 HTTPProcessor: Set: key5=value5
+2021-04-18 17:08:14 HTTPProcessor: Read: key6
+2021-04-18 17:08:14 HTTPProcessor: Set: key6=value6
+2021-04-18 17:08:14 HTTPProcessor: Read: key7
+2021-04-18 17:08:14 HTTPProcessor: Set: key7=value7
+2021-04-18 17:08:14 HTTPProcessor: Read: key8
+2021-04-18 17:08:14 HTTPProcessor: Set: key8=value8
+2021-04-18 17:08:14 HTTPProcessor: Read: key9
+2021-04-18 17:08:14 HTTPProcessor: Set: key9=value9
+2021-04-18 17:08:14 HTTPProcessor: Read: key10
+2021-04-18 17:08:14 HTTPProcessor: Read: key11
+2021-04-18 17:08:14 HTTPProcessor: Read: key12
+2021-04-18 17:08:14 HTTPProcessor: Read: key13
+2021-04-18 17:08:14 HTTPProcessor: Read: key14
+2021-04-18 17:08:57 HTTPProcessor: Read: key0
+2021-04-18 17:08:57 HTTPProcessor: Set: key0=None
+2021-04-18 17:08:57 HTTPProcessor: Set: key0=value0
+2021-04-18 17:08:57 HTTPProcessor: Read: key1
+2021-04-18 17:08:57 HTTPProcessor: Set: key1=None
+2021-04-18 17:08:57 HTTPProcessor: Set: key1=value1
+2021-04-18 17:08:57 HTTPProcessor: Read: key2
+2021-04-18 17:08:57 HTTPProcessor: Set: key2=None
+2021-04-18 17:08:57 HTTPProcessor: Set: key2=value2
+2021-04-18 17:08:57 HTTPProcessor: Read: key3
+2021-04-18 17:08:57 HTTPProcessor: Set: key3=None
+2021-04-18 17:08:57 HTTPProcessor: Set: key3=value3
+2021-04-18 17:08:57 HTTPProcessor: Read: key4
+2021-04-18 17:08:57 HTTPProcessor: Set: key4=None
+2021-04-18 17:08:57 HTTPProcessor: Set: key4=value4
+2021-04-18 17:08:57 HTTPProcessor: Read: key5
+2021-04-18 17:08:57 HTTPProcessor: Set: key5=value5
+2021-04-18 17:08:57 HTTPProcessor: Read: key6
+2021-04-18 17:08:57 HTTPProcessor: Set: key6=value6
+2021-04-18 17:08:57 HTTPProcessor: Read: key7
+2021-04-18 17:08:57 HTTPProcessor: Set: key7=value7
+2021-04-18 17:08:57 HTTPProcessor: Read: key8
+2021-04-18 17:08:57 HTTPProcessor: Set: key8=value8
+2021-04-18 17:08:57 HTTPProcessor: Read: key9
+2021-04-18 17:08:57 HTTPProcessor: Set: key9=value9
+2021-04-18 17:08:57 HTTPProcessor: Read: key10
+2021-04-18 17:08:57 HTTPProcessor: Read: key11
+2021-04-18 17:08:57 HTTPProcessor: Read: key12
+2021-04-18 17:08:57 HTTPProcessor: Read: key13
+2021-04-18 17:08:57 HTTPProcessor: Read: key14
+2021-04-18 17:09:53 HTTPProcessor: Set: key0=value0
+2021-04-18 17:09:53 HTTPProcessor: Set: key1=value1
+2021-04-18 17:09:53 HTTPProcessor: Set: key2=value2
+2021-04-18 17:09:53 HTTPProcessor: Set: key3=value3
+2021-04-18 17:09:53 HTTPProcessor: Set: key4=value4
+2021-04-18 17:09:53 HTTPProcessor: Set: key5=value5
+2021-04-18 17:09:53 HTTPProcessor: Set: key6=value6
+2021-04-18 17:09:53 HTTPProcessor: Set: key7=value7
+2021-04-18 17:09:53 HTTPProcessor: Set: key8=value8
+2021-04-18 17:09:53 HTTPProcessor: Set: key9=value9
+2021-04-18 17:09:53 HTTPProcessor: Read: key0
+2021-04-18 17:09:53 HTTPProcessor: Read: key1
+2021-04-18 17:09:53 HTTPProcessor: Read: key2
+2021-04-18 17:09:53 HTTPProcessor: Read: key3
+2021-04-18 17:09:53 HTTPProcessor: Read: key4
+2021-04-18 17:09:53 HTTPProcessor: Read: key5
+2021-04-18 17:09:53 HTTPProcessor: Read: key6
+2021-04-18 17:09:53 HTTPProcessor: Read: key7
+2021-04-18 17:09:53 HTTPProcessor: Read: key8
+2021-04-18 17:09:53 HTTPProcessor: Read: key9
+2021-04-18 17:09:53 HTTPProcessor: Read: key10
+2021-04-18 17:09:53 HTTPProcessor: Read: key11
+2021-04-18 17:09:53 HTTPProcessor: Read: key12
+2021-04-18 17:09:53 HTTPProcessor: Read: key13
+2021-04-18 17:09:53 HTTPProcessor: Read: key14
+2021-04-18 17:09:53 HTTPProcessor: Set: key0=None
+2021-04-18 17:09:53 HTTPProcessor: Set: key1=None
+2021-04-18 17:09:53 HTTPProcessor: Set: key2=None
+2021-04-18 17:09:53 HTTPProcessor: Set: key3=None
+2021-04-18 17:09:53 HTTPProcessor: Set: key4=None
+2021-04-18 17:10:25 HTTPProcessor: Set: key0=value0
+2021-04-18 17:10:25 HTTPProcessor: Set: key1=value1
+2021-04-18 17:10:25 HTTPProcessor: Set: key2=value2
+2021-04-18 17:10:25 HTTPProcessor: Set: key3=value3
+2021-04-18 17:10:25 HTTPProcessor: Set: key4=value4
+2021-04-18 17:10:25 HTTPProcessor: Set: key5=value5
+2021-04-18 17:10:25 HTTPProcessor: Set: key6=value6
+2021-04-18 17:10:25 HTTPProcessor: Set: key7=value7
+2021-04-18 17:10:25 HTTPProcessor: Set: key8=value8
+2021-04-18 17:10:25 HTTPProcessor: Set: key9=value9
+2021-04-18 17:10:25 HTTPProcessor: Read: key0
+2021-04-18 17:10:25 HTTPProcessor: Read: key1
+2021-04-18 17:10:25 HTTPProcessor: Read: key2
+2021-04-18 17:10:25 HTTPProcessor: Read: key3
+2021-04-18 17:10:25 HTTPProcessor: Read: key4
+2021-04-18 17:10:25 HTTPProcessor: Read: key5
+2021-04-18 17:10:25 HTTPProcessor: Read: key6
+2021-04-18 17:10:25 HTTPProcessor: Read: key7
+2021-04-18 17:10:25 HTTPProcessor: Read: key8
+2021-04-18 17:10:25 HTTPProcessor: Read: key9
+2021-04-18 17:10:25 HTTPProcessor: Read: key10
+2021-04-18 17:10:25 HTTPProcessor: Read: key11
+2021-04-18 17:10:25 HTTPProcessor: Read: key12
+2021-04-18 17:10:25 HTTPProcessor: Read: key13
+2021-04-18 17:10:25 HTTPProcessor: Read: key14
+2021-04-18 17:10:25 HTTPProcessor: Set: key0=None
+2021-04-18 17:10:25 HTTPProcessor: Set: key1=None
+2021-04-18 17:10:25 HTTPProcessor: Set: key2=None
+2021-04-18 17:10:25 HTTPProcessor: Set: key3=None
+2021-04-18 17:10:25 HTTPProcessor: Set: key4=None
+2021-04-18 17:10:43 HTTPProcessor: Set: key0=value0
+2021-04-18 17:10:43 HTTPProcessor: Set: key1=value1
+2021-04-18 17:10:43 HTTPProcessor: Set: key2=value2
+2021-04-18 17:10:43 HTTPProcessor: Set: key3=value3
+2021-04-18 17:10:43 HTTPProcessor: Set: key4=value4
+2021-04-18 17:10:43 HTTPProcessor: Set: key5=value5
+2021-04-18 17:10:43 HTTPProcessor: Set: key6=value6
+2021-04-18 17:10:43 HTTPProcessor: Set: key7=value7
+2021-04-18 17:10:43 HTTPProcessor: Set: key8=value8
+2021-04-18 17:10:43 HTTPProcessor: Set: key9=value9
+2021-04-18 17:10:43 HTTPProcessor: Read: key0
+2021-04-18 17:10:43 HTTPProcessor: Read: key1
+2021-04-18 17:10:43 HTTPProcessor: Read: key2
+2021-04-18 17:10:43 HTTPProcessor: Read: key3
+2021-04-18 17:10:43 HTTPProcessor: Read: key4
+2021-04-18 17:10:43 HTTPProcessor: Read: key5
+2021-04-18 17:10:43 HTTPProcessor: Read: key6
+2021-04-18 17:10:43 HTTPProcessor: Read: key7
+2021-04-18 17:10:43 HTTPProcessor: Read: key8
+2021-04-18 17:10:43 HTTPProcessor: Read: key9
+2021-04-18 17:10:43 HTTPProcessor: Read: key10
+2021-04-18 17:10:43 HTTPProcessor: Read: key11
+2021-04-18 17:10:43 HTTPProcessor: Read: key12
+2021-04-18 17:10:43 HTTPProcessor: Read: key13
+2021-04-18 17:10:43 HTTPProcessor: Read: key14
+2021-04-18 17:10:43 HTTPProcessor: Set: key0=None
+2021-04-18 17:10:43 HTTPProcessor: Set: key1=None
+2021-04-18 17:10:43 HTTPProcessor: Set: key2=None
+2021-04-18 17:10:43 HTTPProcessor: Set: key3=None
+2021-04-18 17:10:43 HTTPProcessor: Set: key4=None
+2021-04-18 17:17:40 
+2021-04-18 17:17:40 System started.
+2021-04-18 17:17:54 HTTPProcessor: Set: key0=value0
+2021-04-18 17:17:54 HTTPProcessor: Set: key1=value1
+2021-04-18 17:17:54 HTTPProcessor: Set: key2=value2
+2021-04-18 17:17:54 HTTPProcessor: Set: key3=value3
+2021-04-18 17:17:54 HTTPProcessor: Set: key4=value4
+2021-04-18 17:17:54 HTTPProcessor: Set: key5=value5
+2021-04-18 17:17:54 HTTPProcessor: Set: key6=value6
+2021-04-18 17:17:54 HTTPProcessor: Set: key7=value7
+2021-04-18 17:17:54 HTTPProcessor: Set: key8=value8
+2021-04-18 17:17:54 HTTPProcessor: Set: key9=value9
+2021-04-18 17:17:54 HTTPProcessor: Read: key0
+2021-04-18 17:17:54 HTTPProcessor: Read: key1
+2021-04-18 17:17:54 HTTPProcessor: Read: key2
+2021-04-18 17:17:54 HTTPProcessor: Read: key3
+2021-04-18 17:17:54 HTTPProcessor: Read: key4
+2021-04-18 17:17:54 HTTPProcessor: Read: key5
+2021-04-18 17:17:54 HTTPProcessor: Read: key6
+2021-04-18 17:17:54 HTTPProcessor: Read: key7
+2021-04-18 17:17:54 HTTPProcessor: Read: key8
+2021-04-18 17:17:54 HTTPProcessor: Read: key9
+2021-04-18 17:17:54 HTTPProcessor: Read: key10
+2021-04-18 17:17:54 HTTPProcessor: Read: key11
+2021-04-18 17:17:54 HTTPProcessor: Read: key12
+2021-04-18 17:17:54 HTTPProcessor: Read: key13
+2021-04-18 17:17:54 HTTPProcessor: Read: key14
+2021-04-18 17:17:54 HTTPProcessor: Set: key0=None
+2021-04-18 17:17:54 HTTPProcessor: Set: key1=None
+2021-04-18 17:17:54 HTTPProcessor: Set: key2=None
+2021-04-18 17:17:54 HTTPProcessor: Set: key3=None
+2021-04-18 17:17:54 HTTPProcessor: Set: key4=None
+2021-04-18 17:19:19 HTTPProcessor: Set: key0=value0
+2021-04-18 17:19:19 HTTPProcessor: Set: key1=value1
+2021-04-18 17:19:19 HTTPProcessor: Set: key2=value2
+2021-04-18 17:19:19 HTTPProcessor: Set: key3=value3
+2021-04-18 17:19:19 HTTPProcessor: Set: key4=value4
+2021-04-18 17:19:19 HTTPProcessor: Set: key5=value5
+2021-04-18 17:19:19 HTTPProcessor: Set: key6=value6
+2021-04-18 17:19:19 HTTPProcessor: Set: key7=value7
+2021-04-18 17:19:19 HTTPProcessor: Set: key8=value8
+2021-04-18 17:19:19 HTTPProcessor: Set: key9=value9
+2021-04-18 17:19:19 HTTPProcessor: Read: key0
+2021-04-18 17:19:19 HTTPProcessor: Read: key1
+2021-04-18 17:19:19 HTTPProcessor: Read: key2
+2021-04-18 17:19:19 HTTPProcessor: Read: key3
+2021-04-18 17:19:19 HTTPProcessor: Read: key4
+2021-04-18 17:19:19 HTTPProcessor: Read: key5
+2021-04-18 17:19:19 HTTPProcessor: Read: key6
+2021-04-18 17:19:19 HTTPProcessor: Read: key7
+2021-04-18 17:19:19 HTTPProcessor: Read: key8
+2021-04-18 17:19:19 HTTPProcessor: Read: key9
+2021-04-18 17:19:19 HTTPProcessor: Read: key10
+2021-04-18 17:19:19 HTTPProcessor: Read: key11
+2021-04-18 17:19:19 HTTPProcessor: Read: key12
+2021-04-18 17:19:19 HTTPProcessor: Read: key13
+2021-04-18 17:19:19 HTTPProcessor: Read: key14
+2021-04-18 17:19:19 HTTPProcessor: Set: key0=None
+2021-04-18 17:19:19 HTTPProcessor: Set: key1=None
+2021-04-18 17:19:19 HTTPProcessor: Set: key2=None
+2021-04-18 17:19:19 HTTPProcessor: Set: key3=None
+2021-04-18 17:19:19 HTTPProcessor: Set: key4=None
+2021-04-18 17:20:18 HTTPProcessor: Set: key0=value0
+2021-04-18 17:20:18 HTTPProcessor: Set: key1=value1
+2021-04-18 17:20:18 HTTPProcessor: Set: key2=value2
+2021-04-18 17:20:18 HTTPProcessor: Set: key3=value3
+2021-04-18 17:20:18 HTTPProcessor: Set: key4=value4
+2021-04-18 17:20:18 HTTPProcessor: Set: key5=value5
+2021-04-18 17:20:18 HTTPProcessor: Set: key6=value6
+2021-04-18 17:20:18 HTTPProcessor: Set: key7=value7
+2021-04-18 17:20:18 HTTPProcessor: Set: key8=value8
+2021-04-18 17:20:18 HTTPProcessor: Set: key9=value9
+2021-04-18 17:20:18 HTTPProcessor: Read: key0
+2021-04-18 17:20:18 HTTPProcessor: Read: key1
+2021-04-18 17:20:18 HTTPProcessor: Read: key2
+2021-04-18 17:20:18 HTTPProcessor: Read: key3
+2021-04-18 17:20:18 HTTPProcessor: Read: key4
+2021-04-18 17:20:18 HTTPProcessor: Read: key5
+2021-04-18 17:20:18 HTTPProcessor: Read: key6
+2021-04-18 17:20:18 HTTPProcessor: Read: key7
+2021-04-18 17:20:18 HTTPProcessor: Read: key8
+2021-04-18 17:20:18 HTTPProcessor: Read: key9
+2021-04-18 17:20:18 HTTPProcessor: Read: key10
+2021-04-18 17:20:18 HTTPProcessor: Read: key11
+2021-04-18 17:20:18 HTTPProcessor: Read: key12
+2021-04-18 17:20:18 HTTPProcessor: Read: key13
+2021-04-18 17:20:18 HTTPProcessor: Read: key14
+2021-04-18 17:20:18 HTTPProcessor: Remove: key0
+2021-04-18 17:20:18 Storage: Removed count: value0
+2021-04-18 17:20:18 HTTPProcessor: Remove: key1
+2021-04-18 17:20:18 Storage: Removed count: value1
+2021-04-18 17:20:18 HTTPProcessor: Remove: key2
+2021-04-18 17:20:18 Storage: Removed count: value2
+2021-04-18 17:20:18 HTTPProcessor: Remove: key3
+2021-04-18 17:20:18 Storage: Removed count: value3
+2021-04-18 17:20:18 HTTPProcessor: Remove: key4
+2021-04-18 17:20:18 Storage: Removed count: value4
+2021-04-18 20:46:45 
+2021-04-18 20:46:45 System started.
+2021-04-18 20:47:57 
+2021-04-18 20:47:57 System started.
+2021-04-18 20:48:07 Storage: Error in snapshot procedure: [Errno 2] No such file or directory: './dump/like_redis.json'
+Traceback (most recent call last):
+  File "/home/ikonst/python/like_redis/src/class_Storage.py", line 94, in snapshot
+    h_file = open(path, "w")
+FileNotFoundError: [Errno 2] No such file or directory: './dump/like_redis.json'
+
+2021-04-18 20:48:36 
+2021-04-18 20:48:36 System started.
+2021-04-18 20:48:46 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:48:56 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:49:06 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:49:16 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:49:26 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:49:36 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:49:46 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:49:56 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:50:06 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:50:16 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:50:26 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:50:36 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:50:46 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:50:56 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:51:06 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:51:16 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:51:26 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:51:36 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:51:46 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:51:56 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:52:06 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:52:16 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:52:26 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:52:36 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:52:46 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:52:56 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:53:06 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:53:16 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:53:26 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:53:36 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:53:46 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:53:56 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:54:06 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:54:16 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:54:26 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:54:36 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:54:46 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:54:56 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:55:06 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:55:16 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:55:26 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:55:36 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:55:46 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:55:56 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:56:06 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:56:16 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:56:26 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:56:36 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:56:46 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:56:56 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:57:06 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:57:16 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:57:26 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:57:31 
+2021-04-18 20:57:31 System started.
+2021-04-18 20:57:41 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:57:51 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:58:01 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:58:11 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:58:21 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:58:31 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:58:41 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:58:51 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:59:01 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:59:11 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:59:21 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:59:31 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:59:41 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 20:59:51 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 21:00:01 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 21:00:11 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 21:00:21 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 21:00:31 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 21:00:41 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 21:00:51 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 21:01:01 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 21:01:11 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 21:01:15 HTTPProcessor: Set: key0=value0
+2021-04-18 21:01:15 HTTPProcessor: Set: key1=value1
+2021-04-18 21:01:15 HTTPProcessor: Set: key2=value2
+2021-04-18 21:01:15 HTTPProcessor: Set: key3=value3
+2021-04-18 21:01:15 HTTPProcessor: Set: key4=value4
+2021-04-18 21:01:15 HTTPProcessor: Set: key5=value5
+2021-04-18 21:01:15 HTTPProcessor: Set: key6=value6
+2021-04-18 21:01:15 HTTPProcessor: Set: key7=value7
+2021-04-18 21:01:15 HTTPProcessor: Set: key8=value8
+2021-04-18 21:01:15 HTTPProcessor: Set: key9=value9
+2021-04-18 21:01:15 HTTPProcessor: Read: key0
+2021-04-18 21:01:15 HTTPProcessor: Read: key1
+2021-04-18 21:01:15 HTTPProcessor: Read: key2
+2021-04-18 21:01:15 HTTPProcessor: Read: key3
+2021-04-18 21:01:15 HTTPProcessor: Read: key4
+2021-04-18 21:01:15 HTTPProcessor: Read: key5
+2021-04-18 21:01:15 HTTPProcessor: Read: key6
+2021-04-18 21:01:15 HTTPProcessor: Read: key7
+2021-04-18 21:01:15 HTTPProcessor: Read: key8
+2021-04-18 21:01:15 HTTPProcessor: Read: key9
+2021-04-18 21:01:15 HTTPProcessor: Read: key10
+2021-04-18 21:01:15 HTTPProcessor: Read: key11
+2021-04-18 21:01:15 HTTPProcessor: Read: key12
+2021-04-18 21:01:15 HTTPProcessor: Read: key13
+2021-04-18 21:01:15 HTTPProcessor: Read: key14
+2021-04-18 21:01:15 HTTPProcessor: Remove: key0
+2021-04-18 21:01:15 HTTPProcessor: Remove: key1
+2021-04-18 21:01:15 HTTPProcessor: Remove: key2
+2021-04-18 21:01:15 HTTPProcessor: Remove: key3
+2021-04-18 21:01:15 HTTPProcessor: Remove: key4
+2021-04-18 21:01:21 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 21:01:31 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 21:01:41 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 21:01:45 Storage: Data were load from disk: ../dump/like_redis.json
+2021-04-18 21:01:45 
+2021-04-18 21:01:45 System started.
+2021-04-18 21:01:55 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 21:02:19 Storage: Data were load from disk: ../dump/like_redis.json
+2021-04-18 21:02:19 
+2021-04-18 21:02:19 System started.
+2021-04-18 21:02:36 Storage: Data were load from disk: ../dump/like_redis.json
+2021-04-18 21:02:36 
+2021-04-18 21:02:36 System started.
+2021-04-18 21:02:46 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 21:02:56 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 21:03:06 Storage: Data were saved on disk: ../dump/like_redis.json
+2021-04-18 21:03:16 Storage: Data were saved on disk: ../dump/like_redis.json
